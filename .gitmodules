@@ -1,0 +1,6 @@
+[submodule "dictionary_data/medical_abbreviations"]
+	path = dictionary_data/medical_abbreviations
+	url = git@github.com:imantsm/medical_abbreviations.git
+[submodule "dictionary_data/wordlist-medicalterms-en"]
+	path = dictionary_data/wordlist-medicalterms-en
+	url = git@github.com:glutanimate/wordlist-medicalterms-en.git
